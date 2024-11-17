@@ -1,0 +1,18 @@
+"scripts": {
+  "start": "node server.js"
+}
+{
+  "name": "javscript_api",
+  "version": "1.0.0",
+  "description": "npm init -y",
+  "main": "imageRouter.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
